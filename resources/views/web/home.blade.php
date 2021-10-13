@@ -18,7 +18,7 @@
                             <div class="row">
                                 <div class="col-md-12 col-sm-12 text-right">
                                     <div class="big-tagline">
-                                        <h2 ><strong>Hệ thống cơ sở dữ liệu Quốc Gia<br>về đa dạng sinh học Việt Nam</strong></h2>
+                                        <h2 ><strong>Hệ thống cơ sở dữ liệu về đa dạng sinh học Hà Nội<br> </strong></h2>
                                         {{-- <p class="lead">With Landigoo responsive landing page template, you can promote your all hosting, domain and email services. </p> --}}
                                         <div class="col-lg-12">
                                             <form {{-- class="checkdomain form-inline" --}}>
